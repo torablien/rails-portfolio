@@ -1,8 +1,8 @@
 This is my portfolio app using Ruby on Rails! It features the projects I worked on for Codecademy's Ruby on Rails Beta course.
 
-To push from Codecademy's Git to my Git:  
-git push -u origin master  
+To push from Codecademy's Git to my Git:<br/>  
+git push -u origin master<br/>    
   
-To push to Heroku's Git:  
-heroku login  
-git push heroku master  
+To push to Heroku's Git:<br/>    
+heroku login<br/>    
+git push heroku master<br/>    
